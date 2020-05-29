@@ -1,0 +1,23 @@
+Sensors:
+1. Piezoelectric Sensor
+2. Motion Sensor
+3. Soil humidity sensor
+4. Gas and Smoke Sensor
+5. Accelero Gyro Sensor
+6. Flame Sensor
+7. Camera
+
+Actuators:
+1. dc motor
+2. lights
+
+Miscellaneous
+1. Bread board
+2. jumper wires
+3. resistors
+4. 12v battery
+7. L293d
+8. Rpi
+9. Cardboards
+10. Plaster of paris
+11. esp8266
