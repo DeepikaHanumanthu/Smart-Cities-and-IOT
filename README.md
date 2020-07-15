@@ -14,7 +14,7 @@
 Structure of the project
 ------------
 
-The following strcture represents the nested structure of the project with all its dependencies
+The following structure represents the nested structure of the project with all its dependencies
 
 
 
