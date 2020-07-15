@@ -6,10 +6,7 @@
 
 # Data Visualization:
 
-<img src="http://ricostacruz.com/hicat/hicat.gif">
 
-
-[![Status](https://travis-ci.org/rstacruz/hicat.svg?branch=master)](https://travis-ci.org/rstacruz/hicat)  
 
 Structure of the project
 ------------
@@ -63,9 +60,6 @@ Visualization
 ------
   Visualizes data from various sensors and plots data on the fly as Real time plots
 <gif 1 > <gif 2> <gif 3>
-
-<img src="http://ricostacruz.com/hicat/hicat.gif">
-
 
 
 About
