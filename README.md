@@ -59,7 +59,8 @@ Simulation
 Visualization
 ------
   Visualizes data from various sensors and plots data on the fly as Real time plots
-<gif 1 > <gif 2> <gif 3>
+
+![Visualize data](https://imgur.com/a/xiP91ii)
 
 
 About
