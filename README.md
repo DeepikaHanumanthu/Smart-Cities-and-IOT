@@ -60,7 +60,7 @@ Visualization
 ------
   Visualizes data from various sensors and plots data on the fly as Real time plots
 
-![Visualize data](https://imgur.com/a/xiP91ii)
+<img src="https://imgur.com/a/xiP91ii" alt="Koa middleware framework for nodejs"/>
 
 
 About
