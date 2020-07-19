@@ -62,7 +62,7 @@ Simulation
 Visualization
 ------
   Visualizes data from various sensors and plots data on the fly as Real time plots
-  ![](finalgif.gif)
+  ![](/finalgif.gif)
   
 Notes 
 -----
